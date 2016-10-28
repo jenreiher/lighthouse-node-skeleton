@@ -23,7 +23,6 @@
     "pg": "^6.0.2"
   },
   "devDependencies": {
-    "bootstrap": "^3.3.7",
     "nodemon": "^1.9.2"
   }
 }
